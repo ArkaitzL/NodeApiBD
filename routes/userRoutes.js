@@ -4,7 +4,7 @@ const userModel = require('../models/userModel');
 
 // Ruta de prueba
 router.get('/test', (req, res) => {
-    res.send('Rutas de usuarios funcionando');
+    res.send('Rutas de usuarios funcionando :)');
   });
   
 // Obtener todos los usuarios
